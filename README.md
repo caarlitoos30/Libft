@@ -1,29 +1,35 @@
-Libft
+<hr>
 
-Descripción
+<h2><strong>Descripción</strong></h2>
 
-Este proyecto forma parte del plan de estudios de la escuela de programación 42. En Libft, se desarrolla una librería en C que replica algunas de las funciones básicas del lenguaje, con el objetivo de:
+<p>Este proyecto forma parte del plan de estudios de la escuela de programación 42. En <strong>Libft</strong>, se desarrolla una librería en C que replica algunas de las funciones básicas del lenguaje, con el objetivo de:</p>
 
-Comprender mejor cómo funcionan estas funciones a nivel interno.
+<ul>
+    <li><strong>Comprender mejor</strong> cómo funcionan estas funciones a nivel interno.</li>
+    <li><strong>Mejorar</strong> las habilidades de programación en C.</li>
+    <li><strong>Aprender</strong> a utilizar herramientas como el <strong>Makefile</strong> para gestionar la compilación de proyectos.</li>
+</ul>
 
-Mejorar las habilidades de programación en C.
+<hr>
 
-Aprender a utilizar herramientas como el Makefile para gestionar la compilación de proyectos.
+<h2><strong>Contenido</strong></h2>
 
-Contenido
+<p>La librería incluye implementaciones propias de funciones pertenecientes a las siguientes categorías:</p>
 
-La librería incluye implementaciones propias de funciones pertenecientes a las siguientes categorías:
+<ul>
+    <li><strong>Funciones de manejo de cadenas</strong>: <code>strlen</code>, <code>strcpy</code>, <code>strcat</code>, entre otras.</li>
+    <li><strong>Funciones de manejo de memoria</strong>: <code>memset</code>, <code>memcpy</code>, <code>bzero</code>, entre otras.</li>
+    <li><strong>Funciones de conversión y comparación</strong>: <code>atoi</code>, <code>toupper</code>, <code>tolower</code>, entre otras.</li>
+    <li><strong>Funciones adicionales</strong>: Utilidades personalizadas para completar y extender las funcionalidades del proyecto.</li>
+</ul>
 
-Funciones de manejo de cadenas: strlen, strcpy, strcat, entre otras.
+<hr>
 
-Funciones de manejo de memoria: memset, memcpy, bzero, entre otras.
+<h2><strong>Tecnologías utilizadas</strong></h2>
 
-Funciones de conversión y comparación: atoi, toupper, tolower, entre otras.
+<ul>
+    <li><strong>Lenguaje</strong>: C</li>
+    <li><strong>Herramientas</strong>: Makefile</li>
+</ul>
 
-Funciones adicionales: Utilidades personalizadas para completar y extender las funcionalidades del proyecto.
-
-Tecnologías utilizadas
-
-Lenguaje: C
-
-Herramientas: Makefile
+<hr>
