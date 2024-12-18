@@ -1,4 +1,4 @@
-<hr>
+
 
 <h2><strong>Descripción</strong></h2>
 
